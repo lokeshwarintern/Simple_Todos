@@ -1,0 +1,23 @@
+.list-ele {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.para-ele {
+  font-family: Roboto;
+  font-size: 24px;
+}
+
+.btn-ele {
+  background-color: transparent;
+  border-width: 1px;
+  border-radius: 8px;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  font-family: Roboto;
+  padding: 7px;
+  margin-left: 34px;
+  width: 75px;
+}

@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.bg-container {
+  min-height: 100vh;
+  background-color: #ffc2a0;
+  padding: 40px;
+}
+
+.todo-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading-ele {
+  color: #ffc2a0;
+  font-family: Roboto;
+}
+
+.ul-container {
+  list-style-type: none;
+}
